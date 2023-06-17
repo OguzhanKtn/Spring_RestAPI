@@ -8,8 +8,8 @@
 ### MySql
 
 ## Explanation :
-```
+<p>
 The user must first login to be able to make a request. For this used filterConfig middleware. A session occurs after login.
 When an user registers in the system, his/her password is encrypted and saved in the database. For this used GoogleTinkEncryption.
 ResponseEntity used for response to requests from client. 
-```
+</p>
